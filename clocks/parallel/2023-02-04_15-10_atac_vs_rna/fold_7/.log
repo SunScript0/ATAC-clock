@@ -1,0 +1,13 @@
+/gpfs/fs2/scratch/fmorandi/ChromAcc-clock/clocks/parallel/2023-02-04_15-10_atac_vs_rna
+Fold = 7
+Loaded data
+Loaded labels
+Loaded groups
+Loaded pipe
+Loaded param_grid
+Loaded outer_split
+Fitting 10 folds for each of 180 candidates, totalling 1800 fits
+MSE =	64.21474135461419
+MAE =	6.862582071178661
+r =	0.8506226961419892
+Finished in 5577.693958520889

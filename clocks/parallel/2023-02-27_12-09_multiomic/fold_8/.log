@@ -1,0 +1,14 @@
+/gpfs/fs2/scratch/fmorandi/ChromAcc-clock/clocks/parallel/2023-02-27_12-09_multiomic
+Fold = 8
+Loaded data
+Loaded labels
+Loaded groups
+Loaded pipe
+Loaded param_grid
+Loaded outer_split
+Loaded scoring
+Fitting 10 folds for each of 180 candidates, totalling 1800 fits
+MSE =	87.36334503193513
+MAE =	6.4269910150880385
+r =	0.802174633546021
+Finished in 7553.922201156616

@@ -1,0 +1,14 @@
+/gpfs/fs2/scratch/fmorandi/ChromAcc-clock/clocks/parallel/2023-02-20_17-31_crct_none_vs_sex
+Fold = 8
+Loaded data
+Loaded labels
+Loaded groups
+Loaded pipe
+Loaded param_grid
+Loaded outer_split
+Loaded scoring
+Fitting 10 folds for each of 180 candidates, totalling 1800 fits
+MSE =	61.82024689321549
+MAE =	3.34587337021825
+r =	0.8632414168191558
+Finished in 5550.784058332443

@@ -1,0 +1,7 @@
+/fastq/*
+/fastq_covid/*
+/fastq_ucar_atac/*
+/fastq_ucar_rna/*
+/paper_addon_atac/*
+/paper_addon_rna/*
+!.gitignore

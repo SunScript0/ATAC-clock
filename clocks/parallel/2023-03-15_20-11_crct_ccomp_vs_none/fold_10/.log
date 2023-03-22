@@ -1,0 +1,14 @@
+/gpfs/fs2/scratch/fmorandi/ChromAcc-clock/clocks/parallel/2023-03-15_20-11_crct_ccomp_vs_none
+Fold = 10
+Loaded data
+Loaded labels
+Loaded groups
+Loaded pipe
+Loaded param_grid
+Loaded outer_split
+Loaded scoring
+Fitting 10 folds for each of 180 candidates, totalling 1800 fits
+MSE =	26.244555357280586
+MAE =	3.445841138450863
+r =	0.9218647965925119
+Finished in 6142.312091112137

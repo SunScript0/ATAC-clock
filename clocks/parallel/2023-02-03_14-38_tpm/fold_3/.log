@@ -1,0 +1,13 @@
+/gpfs/fs2/scratch/fmorandi/ChromAcc-clock/clocks/parallel/2023-02-03_14-38_tpm
+Fold = 3
+Loaded data
+Loaded labels
+Loaded groups
+Loaded pipe
+Loaded param_grid
+Loaded outer_split
+Fitting 10 folds for each of 180 candidates, totalling 1800 fits
+MSE =	87.4399746617943
+MAE =	6.32913674342246
+r =	0.7631215052766498
+Finished in 5036.581002235413
